@@ -6,9 +6,9 @@
 
 **使用說明:**
 
-先在local端建立DB:
+先在local端建立MS SQL DB:
 
-1.建立Category:StockDashboard
+1.建立DB Category:StockDashboard
 
 2.執行sql script,建立table:StockInformation
 
