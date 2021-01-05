@@ -1,5 +1,9 @@
 # TwseStock
 
+爬蟲程式(Tool.GetStockData)從證交所下載證券資料，並呈現在網頁(StockDashboard)上，網頁可依照時間區間查詢證券個股日本益比、殖利率及股價淨值比
+使用技術:HttpRequest取證券資料(csv檔案)，ORM Dapper存取資料庫，NET MVC網頁
+
+
 **使用說明:**
 
 先在local端建立DB:
